@@ -30,6 +30,7 @@
     { "tag": "proxy7", "protocol": "socks", "settings": { "servers": [ { "address": "31.59.20.176", "port": 6754, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy8", "protocol": "socks", "settings": { "servers": [ { "address": "31.59.20.176", "port": 6754, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy9", "protocol": "socks", "settings": { "servers": [ { "address": "31.59.20.176", "port": 6754, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy10", "protocol": "socks", "settings": { "servers": [ { "address": "31.56.127.193", "port": 7684, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy11", "protocol": "socks", "settings": { "servers": [ { "address": "31.56.127.193", "port": 7684, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy12", "protocol": "socks", "settings": { "servers": [ { "address": "31.56.127.193", "port": 7684, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -39,6 +40,7 @@
     { "tag": "proxy16", "protocol": "socks", "settings": { "servers": [ { "address": "31.56.127.193", "port": 7684, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy17", "protocol": "socks", "settings": { "servers": [ { "address": "31.56.127.193", "port": 7684, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy18", "protocol": "socks", "settings": { "servers": [ { "address": "31.56.127.193", "port": 7684, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy19", "protocol": "socks", "settings": { "servers": [ { "address": "45.38.107.97", "port": 6014, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy20", "protocol": "socks", "settings": { "servers": [ { "address": "45.38.107.97", "port": 6014, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy21", "protocol": "socks", "settings": { "servers": [ { "address": "45.38.107.97", "port": 6014, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -48,6 +50,7 @@
     { "tag": "proxy25", "protocol": "socks", "settings": { "servers": [ { "address": "45.38.107.97", "port": 6014, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy26", "protocol": "socks", "settings": { "servers": [ { "address": "45.38.107.97", "port": 6014, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy27", "protocol": "socks", "settings": { "servers": [ { "address": "45.38.107.97", "port": 6014, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy28", "protocol": "socks", "settings": { "servers": [ { "address": "198.105.121.200", "port": 6462, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy29", "protocol": "socks", "settings": { "servers": [ { "address": "198.105.121.200", "port": 6462, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy30", "protocol": "socks", "settings": { "servers": [ { "address": "198.105.121.200", "port": 6462, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -57,6 +60,7 @@
     { "tag": "proxy34", "protocol": "socks", "settings": { "servers": [ { "address": "198.105.121.200", "port": 6462, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy35", "protocol": "socks", "settings": { "servers": [ { "address": "198.105.121.200", "port": 6462, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy36", "protocol": "socks", "settings": { "servers": [ { "address": "198.105.121.200", "port": 6462, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy37", "protocol": "socks", "settings": { "servers": [ { "address": "64.137.96.74", "port": 6641, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy38", "protocol": "socks", "settings": { "servers": [ { "address": "64.137.96.74", "port": 6641, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy39", "protocol": "socks", "settings": { "servers": [ { "address": "64.137.96.74", "port": 6641, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -66,6 +70,7 @@
     { "tag": "proxy43", "protocol": "socks", "settings": { "servers": [ { "address": "64.137.96.74", "port": 6641, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy44", "protocol": "socks", "settings": { "servers": [ { "address": "64.137.96.74", "port": 6641, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy45", "protocol": "socks", "settings": { "servers": [ { "address": "64.137.96.74", "port": 6641, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy46", "protocol": "socks", "settings": { "servers": [ { "address": "198.23.243.226", "port": 6361, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy47", "protocol": "socks", "settings": { "servers": [ { "address": "198.23.243.226", "port": 6361, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy48", "protocol": "socks", "settings": { "servers": [ { "address": "198.23.243.226", "port": 6361, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -75,6 +80,7 @@
     { "tag": "proxy52", "protocol": "socks", "settings": { "servers": [ { "address": "198.23.243.226", "port": 6361, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy53", "protocol": "socks", "settings": { "servers": [ { "address": "198.23.243.226", "port": 6361, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy54", "protocol": "socks", "settings": { "servers": [ { "address": "198.23.243.226", "port": 6361, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy55", "protocol": "socks", "settings": { "servers": [ { "address": "38.154.185.97", "port": 6370, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy56", "protocol": "socks", "settings": { "servers": [ { "address": "38.154.185.97", "port": 6370, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy57", "protocol": "socks", "settings": { "servers": [ { "address": "38.154.185.97", "port": 6370, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -84,6 +90,7 @@
     { "tag": "proxy61", "protocol": "socks", "settings": { "servers": [ { "address": "38.154.185.97", "port": 6370, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy62", "protocol": "socks", "settings": { "servers": [ { "address": "38.154.185.97", "port": 6370, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy63", "protocol": "socks", "settings": { "servers": [ { "address": "38.154.185.97", "port": 6370, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy64", "protocol": "socks", "settings": { "servers": [ { "address": "84.247.60.125", "port": 6095, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy65", "protocol": "socks", "settings": { "servers": [ { "address": "84.247.60.125", "port": 6095, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy66", "protocol": "socks", "settings": { "servers": [ { "address": "84.247.60.125", "port": 6095, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -93,6 +100,7 @@
     { "tag": "proxy70", "protocol": "socks", "settings": { "servers": [ { "address": "84.247.60.125", "port": 6095, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy71", "protocol": "socks", "settings": { "servers": [ { "address": "84.247.60.125", "port": 6095, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy72", "protocol": "socks", "settings": { "servers": [ { "address": "84.247.60.125", "port": 6095, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy73", "protocol": "socks", "settings": { "servers": [ { "address": "142.111.67.146", "port": 5611, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy74", "protocol": "socks", "settings": { "servers": [ { "address": "142.111.67.146", "port": 5611, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy75", "protocol": "socks", "settings": { "servers": [ { "address": "142.111.67.146", "port": 5611, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -102,6 +110,7 @@
     { "tag": "proxy79", "protocol": "socks", "settings": { "servers": [ { "address": "142.111.67.146", "port": 5611, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy80", "protocol": "socks", "settings": { "servers": [ { "address": "142.111.67.146", "port": 5611, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy81", "protocol": "socks", "settings": { "servers": [ { "address": "142.111.67.146", "port": 5611, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } },
+
     { "tag": "proxy82", "protocol": "socks", "settings": { "servers": [ { "address": "191.96.254.138", "port": 6185, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy83", "protocol": "socks", "settings": { "servers": [ { "address": "191.96.254.138", "port": 6185, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy84", "protocol": "socks", "settings": { "servers": [ { "address": "191.96.254.138", "port": 6185, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -111,5 +120,34 @@
     { "tag": "proxy88", "protocol": "socks", "settings": { "servers": [ { "address": "191.96.254.138", "port": 6185, "users": [ { "user": "LEDERG888", "pass": "LEDERG888" } ] } ] } },
     { "tag": "proxy89", "protocol": "socks", "settings": { "servers": [ { "address": "191.96.254.138", "port": 6185, "users": [ { "user": "LEDERG333", "pass": "LEDERG333" } ] } ] } },
     { "tag": "proxy90", "protocol": "socks", "settings": { "servers": [ { "address": "191.96.254.138", "port": 6185, "users": [ { "user": "LEDERG444", "pass": "LEDERG444" } ] } ] } }
-  ]
+  ],
+  "routing": {
+    "balancers": [
+      {
+        "tag": "my-balancer",
+        "selector": [
+          "proxy1", "proxy2", "proxy3", "proxy4", "proxy5", "proxy6", "proxy7", "proxy8", "proxy9",
+          "proxy10", "proxy11", "proxy12", "proxy13", "proxy14", "proxy15", "proxy16", "proxy17", "proxy18",
+          "proxy19", "proxy20", "proxy21", "proxy22", "proxy23", "proxy24", "proxy25", "proxy26", "proxy27",
+          "proxy28", "proxy29", "proxy30", "proxy31", "proxy32", "proxy33", "proxy34", "proxy35", "proxy36",
+          "proxy37", "proxy38", "proxy39", "proxy40", "proxy41", "proxy42", "proxy43", "proxy44", "proxy45",
+          "proxy46", "proxy47", "proxy48", "proxy49", "proxy50", "proxy51", "proxy52", "proxy53", "proxy54",
+          "proxy55", "proxy56", "proxy57", "proxy58", "proxy59", "proxy60", "proxy61", "proxy62", "proxy63",
+          "proxy64", "proxy65", "proxy66", "proxy67", "proxy68", "proxy69", "proxy70", "proxy71", "proxy72",
+          "proxy73", "proxy74", "proxy75", "proxy76", "proxy77", "proxy78", "proxy79", "proxy80", "proxy81",
+          "proxy82", "proxy83", "proxy84", "proxy85", "proxy86", "proxy87", "proxy88", "proxy89", "proxy90"
+        ],
+        "strategy": {
+          "type": "roundRobin"
+        }
+      }
+    ],
+    "rules": [
+      {
+        "type": "field",
+        "balancerTag": "my-balancer",
+        "network": "tcp,udp"
+      }
+    ]
+  }
 }
