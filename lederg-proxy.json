@@ -35,19 +35,16 @@
     }
   ],
   "outbounds": [
-    // 1. Прямое соединение (для российских сайтов)
     {
       "tag": "direct",
       "protocol": "freedom",
       "settings": {}
     },
-    // 2. Блокировка (для явно запрещённых)
     {
       "tag": "block",
       "protocol": "blackhole",
       "settings": {}
     },
-    // 3–92. Ваши SOCKS5-прокси (все 90)
     { "tag": "proxy1", "protocol": "socks", "settings": { "servers": [ { "address": "31.59.20.176", "port": 6754, "users": [ { "user": "LEDERG777", "pass": "LEDERG777" } ] } ] } },
     { "tag": "proxy2", "protocol": "socks", "settings": { "servers": [ { "address": "31.59.20.176", "port": 6754, "users": [ { "user": "LEDERG666", "pass": "LEDERG666" } ] } ] } },
     { "tag": "proxy3", "protocol": "socks", "settings": { "servers": [ { "address": "31.59.20.176", "port": 6754, "users": [ { "user": "LEDERG000", "pass": "LEDERG000" } ] } ] } },
@@ -144,6 +141,21 @@
     "rules": [
       {
         "type": "field",
+        "domain": ["geosite:category-ads", "geosite:category-ads-all"],
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
+        "domain": ["geosite:category-malware"],
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
+        "ip": ["geoip:malware"],
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
         "ip": ["geoip:private"],
         "outboundTag": "direct"
       },
@@ -156,6 +168,25 @@
         "type": "field",
         "ip": ["geoip:ru"],
         "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "geosite:google",
+          "geosite:youtube",
+          "geosite:telegram",
+          "geosite:twitter",
+          "geosite:instagram",
+          "geosite:facebook",
+          "geosite:whatsapp",
+          "geosite:netflix",
+          "geosite:spotify",
+          "geosite:discord",
+          "geosite:reddit",
+          "geosite:github",
+          "geosite:cloudflare"
+        ],
+        "outboundTag": "my-balancer"
       },
       {
         "type": "field",
